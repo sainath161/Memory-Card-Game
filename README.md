@@ -34,4 +34,4 @@ This is a simple memory card game implemented using HTML, CSS, and JavaScript. T
 
 ## Deployment
 
-This project is deployed and can view at [Virtual Pet Simulator](https://sainath161.github.io/Memory-Card-Game/).
+This project is deployed and can view at [Memory Card Game](https://sainath161.github.io/Memory-Card-Game/).
